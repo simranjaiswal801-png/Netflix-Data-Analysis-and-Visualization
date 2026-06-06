@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Netflix Dataset
+# 1.Exploratory Data Analysis on Netflix Dataset
 
 ## Project Description
 This project performs Exploratory Data Analysis (EDA) on the Netflix dataset using Python. The main objective of this project is to analyze the dataset and discover meaningful insights related to Netflix movies and TV shows.
@@ -67,7 +67,9 @@ Dataset contains information such as:
 This project helped in understanding how Exploratory Data Analysis is performed on real-world datasets using Python libraries like Pandas and Matplotlib.
 
 
-# Netflix Data Visualization using Python
+
+
+# 2.Netflix Data Visualization using Python
 
 ## Project Description
 This project focuses on visualizing Netflix dataset trends using different charts and graphs in Python. Data visualization helps in understanding patterns, comparisons, and trends more clearly.
