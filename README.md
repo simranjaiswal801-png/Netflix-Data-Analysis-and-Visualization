@@ -39,7 +39,7 @@ Dataset contains:
 
 ---
 
-# Task 2 : Exploratory Data Analysis (EDA)
+# Task 1 : Exploratory Data Analysis (EDA)
 
 ## Analysis Performed
 
@@ -67,7 +67,7 @@ Dataset contains:
 
 ---
 
-# Task 3 : Data Visualization
+# Task 2 : Data Visualization
 
 ## Visualizations Created
 
