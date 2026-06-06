@@ -1,19 +1,23 @@
-# 1.Exploratory Data Analysis on Netflix Dataset
+# Netflix Data Analysis and Visualization using Python
 
 ## Project Description
-This project performs Exploratory Data Analysis (EDA) on the Netflix dataset using Python. The main objective of this project is to analyze the dataset and discover meaningful insights related to Netflix movies and TV shows.
+
+This project focuses on Exploratory Data Analysis (EDA) and Data Visualization on the Netflix dataset using Python.
+
+The objective of this project is to analyze Netflix content and generate meaningful insights using data analysis and visualization techniques.
 
 The project includes:
-- Data loading
 - Data inspection
 - Missing value checking
-- Content analysis
-- Country analysis
+- Movies vs TV Shows analysis
+- Country-wise analysis
 - Release year analysis
+- Data visualization using charts and graphs
 
 ---
 
 ## Technologies Used
+
 - Python
 - Pandas
 - Matplotlib
@@ -22,9 +26,10 @@ The project includes:
 ---
 
 ## Dataset Used
+
 Netflix Titles Dataset
 
-Dataset contains information such as:
+Dataset contains:
 - Title
 - Type
 - Country
@@ -34,54 +39,35 @@ Dataset contains information such as:
 
 ---
 
+# Task 2 : Exploratory Data Analysis (EDA)
+
 ## Analysis Performed
 
-1. Checked dataset structure using:
+1. Dataset inspection using:
    - head()
    - info()
 
-2. Checked missing values
+2. Missing value analysis
 
-3. Analyzed Movies vs TV Shows distribution
+3. Movies vs TV Shows comparison
 
-4. Identified top countries contributing Netflix content
+4. Top countries analysis
 
-5. Analyzed release year trends
+5. Release year analysis
 
 ---
 
-## Insights
+## EDA Insights
 
 1. Movies are more common than TV Shows on Netflix.
 
 2. USA contributes the highest amount of Netflix content.
 
-3. Netflix content has increased significantly after 2015.
-
-4. Data analysis helps in understanding trends and patterns effectively.
+3. Netflix content increased significantly after 2015.
 
 ---
 
-## Conclusion
-
-This project helped in understanding how Exploratory Data Analysis is performed on real-world datasets using Python libraries like Pandas and Matplotlib.
-
-
-
-
-# 2.Netflix Data Visualization using Python
-
-## Project Description
-This project focuses on visualizing Netflix dataset trends using different charts and graphs in Python. Data visualization helps in understanding patterns, comparisons, and trends more clearly.
-
----
-
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-
----
+# Task 3 : Data Visualization
 
 ## Visualizations Created
 
@@ -99,18 +85,18 @@ This project focuses on visualizing Netflix dataset trends using different chart
 
 ---
 
-## Insights
+## Visualization Insights
 
-1. Movies dominate Netflix content compared to TV Shows.
+1. Movies dominate Netflix content.
 
 2. USA has the highest number of Netflix titles.
 
 3. Most Netflix content was released after 2015.
 
-4. Visual representations make data easier to understand.
+4. Graphs help in understanding trends more effectively.
 
 ---
 
 ## Conclusion
 
-This project demonstrates how Python visualization libraries can be used to represent data graphically and generate meaningful insights from datasets.
+This project demonstrates how Python libraries can be used for analyzing and visualizing real-world datasets effectively. It helped in understanding data patterns, trends, and graphical representation techniques.
